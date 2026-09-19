@@ -1,7 +1,7 @@
 {
   "name":"AI Signal",
   "short_name":"AI Signal",
-  "description":"Live AI progress signals from primary research and technical sources.",
+  "description":"Live AGI countdown, laboratory advances, and field-by-field AI progress.",
   "start_url":"./",
   "scope":"./",
   "display":"standalone",
